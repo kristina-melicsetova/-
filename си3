@@ -1,0 +1,13 @@
+#include <stdio.h>
+ 
+intmain(void)
+{
+    intage;
+    charname[10];
+    floatweight;
+    scanf("%d %s %f", &age, &name, &weight);
+     
+    printf("Name: %s \t Age = %d \t Weight = %f",name,  
+age, weight);
+    return0;
+}

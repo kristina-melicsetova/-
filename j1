@@ -1,0 +1,17 @@
+publicclassProgram{
+      
+    publicstaticvoidmain (String args[]){
+          
+         hello();
+         welcome();
+         welcome();
+    }
+    staticvoidhello(){
+         
+        System.out.println("Hello");
+    }
+    staticvoidwelcome(){
+         
+        System.out.println("Welcome to Java 10");
+    }
+}
